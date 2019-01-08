@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>nil non; vel non.</title>
+    <style>
+      
+.header {
+  color: #273746;
+  text-align: left;
+  font-family: "Orator Std";
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#firstblock {
+  color: #F2F4F4;
+  font-family: "Gadugi";
+  font-size: small;
+  padding: 10px;
+}
+
+#header1 {
+  color: #E5E7E9;
+  border-top-color: #59f4f4;
+  border-right-color: #59f4f4;
+  border-bottom-color: #59f4f4;
+  border-left-color: #59f4f4;
+  font-family: "Orator Std";
+}
+      
+      #credit {
+      color: #3d5c5c;
+      background-color: #F7F9F9;
+      text-align: left;
+      padding: 10px;
+      font-family: "Gadugi";
+      font-size: 9px;
+      }
+.background {
+  height: 100%;
+  background-color: #ABADB7;
+  background-image: -webkit-linear-gradient(-78deg, #85929E 50%, #AEB6BF 50%);
+}
+</style> </head>
+  <body>
+    <div class="background">
+      <p><br>
+      </p>
+      <header class="header"> nil non; vel non.</header>
+      <section id="firstblock">
+        <p><br>
+        </p>
+        <h2 id="header1" border="1"> Intent &amp; Summary</h2>
+        <p> This website exists to showcase my skills when it comes to webdesign
+          as I am someone who is working on various programming languages
+          including HTML and CSS. Furthermore the content provides insight into
+          other aspects of me, such as my interests, ideas, projects and
+          opinions. Here is a list of everything I am planning to include in
+          this master-website, with the finished items crossed out. I will also
+          explain my process in building this website with the great Nicholas
+          Reis as we both work towards completing it. Furthermore I will provie
+          the Github link for the code for anyone who wishes to take a look at
+          it.</p>
+        <ul>
+          <li><s>intent and summary</s></li>
+          <li>an interactive, modernly designed navigation</li>
+          <li><s>bottom, small credit</s></li>
+          <li>life experiences and what i learned from them</li>
+          <li>hobbies</li>
+          <li>social activities</li>
+          <li>resume</li>
+          <li>link to my science news website</li>
+          <li>adobe illustrator projects</li>
+          <li>previous youtube videos that i have completed</li>
+          <li>c++ projects</li>
+          <li>work in progress page</li>
+          <li>lecture notes</li>
+          <li>opinions page</li>
+          <li>travel blog page</li>
+          <li>reviews</li>
+          <li>personal writing projects</li>
+          <li>contact page</li>
+          <li>fun page with a schedule maker, a gpa calculator a note board and
+            a few interactive games.</li>
+        </ul>
+        <p><br>
+        </p>
+      </section>
+      <section> Navigation
+        <p><br>
+        </p>
+      </section>
+    </div>
+    <footer id="credit"> Nicholas Craig &amp; Duygu Bayram </footer>
+    
+  </body>
+</html>
