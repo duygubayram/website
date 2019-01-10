@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>nil non; vel non.</title>
     <style>
-      
+
 .header {
   color: #273746;
   text-align: left;
@@ -30,7 +30,7 @@
   border-left-color: #59f4f4;
   font-family: "Orator Std";
 }
-      
+
       #credit {
       color: #3d5c5c;
       background-color: #F7F9F9;
@@ -60,7 +60,7 @@
           other aspects of me, such as my interests, ideas, projects and
           opinions. Here is a list of everything I am planning to include in
           this master-website, with the finished items crossed out. I will also
-          explain my process in building this website with the great Nicholas
+          explain my process in building this website with Nicholas
           Reis as we both work towards completing it. Furthermore I will provie
           the Github link for the code for anyone who wishes to take a look at
           it.</p>
@@ -94,7 +94,7 @@
         </p>
       </section>
     </div>
-    <footer id="credit"> Nicholas Craig &amp; Duygu Bayram </footer>
-    
+    <footer id="credit"> Nicholas Reis &amp; Duygu Bayram </footer>
+
   </body>
 </html>
